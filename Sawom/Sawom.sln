@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sawom.App.Android", "Sawom.App\Sawom.App.Android\Sawom.App.Android.csproj", "{D853E8E1-6F13-43EA-87B9-D751670F0269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sawom.App", "Sawom.App\Sawom.App\Sawom.App.csproj", "{BACD0C72-B7DC-4847-A96B-E1704742DBEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D853E8E1-6F13-43EA-87B9-D751670F0269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D853E8E1-6F13-43EA-87B9-D751670F0269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D853E8E1-6F13-43EA-87B9-D751670F0269}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D853E8E1-6F13-43EA-87B9-D751670F0269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D853E8E1-6F13-43EA-87B9-D751670F0269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D853E8E1-6F13-43EA-87B9-D751670F0269}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BACD0C72-B7DC-4847-A96B-E1704742DBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACD0C72-B7DC-4847-A96B-E1704742DBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACD0C72-B7DC-4847-A96B-E1704742DBEE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BACD0C72-B7DC-4847-A96B-E1704742DBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACD0C72-B7DC-4847-A96B-E1704742DBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BACD0C72-B7DC-4847-A96B-E1704742DBEE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10222B2A-C6C3-4638-BFF4-26F1A95A2475}
+	EndGlobalSection
+EndGlobal
