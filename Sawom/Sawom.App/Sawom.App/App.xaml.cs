@@ -11,7 +11,8 @@ namespace Sawom.App
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            //MainPage = new MainPage();
+            MainPage = new Menu.MenuPage();
         }
 
         protected override void OnStart()
