@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname">
     <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="27" />
-    <application android:label="Sawom.App.Android"></application>
+    <application android:label="Sawom.App.Android">
+        <meta-data android:name="com.google.android.maps.v2.API_KEY" 
+                   android:value="AIzaSyA8wYUf0b0PevsKvKScxC5sXzObYuF2Ot8" />      
+
+    </application>
 </manifest>
